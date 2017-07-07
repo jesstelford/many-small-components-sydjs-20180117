@@ -1,0 +1,20 @@
+{
+  "name": "ndc-talk-2017",
+  "private": true,
+  "version": "1.0.0",
+  "description": "NDC Sydney 2017 talk",
+  "main": "index.js",
+  "repository": "git@gitlab.com:jesstelford/talk-many-small-components.git",
+  "author": "Jess Telford <jess+github@jes.st>",
+  "license": "MIT",
+  "scripts": {
+    "start": "bs serve",
+    "build": "bs export --output build/ && cp -r files build/",
+    "build:pdf": "bs pdf --output build/ --decktape ../decktape-1.0.0/ && cp -r files build/",
+    "clean": "rm -rf build/",
+    "deploy": "yarn run clean && yarn run build && now --static deploy build && echo 'Now run: now alias <id> msc.now.sh'"
+  },
+  "devDependencies": {
+    "backslide": "^1.2.1"
+  }
+}
