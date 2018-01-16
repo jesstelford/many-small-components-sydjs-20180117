@@ -41,6 +41,8 @@ class: impact
 - Frontend only for 5.5yrs
 - Domain for 2.5yrs
 
+Dad joke:
+
 ---
 
 class: impact
@@ -49,8 +51,8 @@ class: impact
 
 ???
 
-- I learned french fries aren't even cooked in France... They're cooked in
-  Greece!
+- My friend told me to stop singing "Wonderwall" by Oasis
+- 🎜 I said _maybeeeee_...
 
 ---
 
@@ -1262,7 +1264,7 @@ class: lesson impact
   - new servers
   - boilerplates
   - etc
-- Pop quiz!
+Joke:
 
 ---
 
@@ -1270,7 +1272,9 @@ class: lesson impact
 
 ???
 
-- What do you call a magic dog? A Labracadabradore!
+- I thought my friend wasn't serious when she said "Stop singing songs by The
+Monkees"
+- 🎜 And then I saw her face...
 
 ---
 
@@ -1846,7 +1850,9 @@ class: lesson impact
 
 ???
 
-- An SQL Query goes into a bar, walks up to two tables and asks "Can I join you?"
+- At any given time, the urge to sing "The Lion Sleeps Tonight" is just a whim
+  away
+- 🎜 a-whim-away a-whim-away a-whim-awy a-woo-oooooo-ooOOooo
 
 ---
 
@@ -1856,7 +1862,9 @@ class: impact
 
 ???
 
-- An SQL Query goes into a bar, walks up to two tables and asks "Can I join you?"
+- At any given time, the urge to sing "The Lion Sleeps Tonight" is just a whim
+  away
+- 🎜 a-whim-away a-whim-away a-whim-awy a-woo-oooooo-ooOOooo
 
 ---
 
