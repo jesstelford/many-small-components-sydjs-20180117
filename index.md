@@ -16,7 +16,7 @@ class: impact
 
 ## @ Domain.com.au
 
-### [msc.now.sh](https://msc.now.sh)
+### [msc-sydjs.now.sh](https://msc-sydjs.now.sh)
 
 ---
 
@@ -37,9 +37,9 @@ class: impact
 ???
 
 - My creds
-- Started with games in 1998
-- Frontend only for 5.5yrs
-- Domain for 2.5yrs
+- Full stack
+- Frontend only for 6yrs
+- Domain for 3yrs
 
 Dad joke:
 
@@ -62,11 +62,11 @@ class: impact
 
 ## @ Domain.com.au
 
-### [msc.now.sh](https://msc.now.sh)
+### [msc-sydjs.now.sh](https://msc-sydjs.now.sh)
 
 ???
 
-- Evolution of FE at Domain over 2.5yr
+- Evolution of FE at Domain over 3yrs
 - 9 Lessons:
   - Tooling
   - Processes
@@ -83,7 +83,7 @@ class: impact
 
 - What is Domain.com.au?
 - Growth
-- Over 25 FE devs
+- Over 35 FE devs
 
 ---
 
@@ -91,25 +91,19 @@ class: flex-slide flex-column
 
 # c. 2015
 
-???
-
-- I joined Jan 2015
-
---
-
 .big[
 - Homepage
 - Search results
 - Property details
-- \+ a couple more
+- ... plus others
 ]
 
 ???
 
-- Manageable if unchanging
-- Great microservices
-- Now think about FE
-- Design & UX improvements == tech debt
+- A few core pages
+- Great BE
+- microservices: lots of effort
+- FE: 1 person, not well designed
 
 ---
 
@@ -151,6 +145,7 @@ class: flex-slide flex-column
 - Differences creep in
 - Fix after the fact
 - Outgrew this choice too
+- Added some tools to help build
 
 ---
 
@@ -409,20 +404,6 @@ class: lesson impact
   - Infrastructure
   - Building
   - Testing, etc
-
----
-
-> Build to replace, not extend
-
-&nbsp;
-
-> Eliminate all humans
-
-.attribution[Domain Tech Principles]
-
-???
-
-- From Lesson #4
 - API contracts, etc
 - Automate all the things
 - Lesson #3 "Everything Component"
@@ -741,7 +722,7 @@ scss_lint
     ↓
    sass
     ↓
- lib/css
+lib/css
 ```
 ]
 
@@ -771,7 +752,7 @@ class: flex-slide
 
 .no-margin.big.code-center[
 ```
- src/sass
+src/sass
     ↓
 scss_lint
     ↓
@@ -1701,7 +1682,7 @@ foo.png -> foo_aa34f8.png
 import ReactDOMServer from 'react-dom/server'
 
 module.exports = function render(props) {
-  return ReactDOMServer.renderToString(/*props*/)
+  return ReactDOMServer.renderToString(...)
 }
 ```
 ]
@@ -1827,6 +1808,7 @@ class: lesson impact
   - Browserify -> Webpack
   - Bundle splitting
   - SPA
+  - CSS-in-JS
 - Do once, works everywhere
   - Thanks to assumptions
 
