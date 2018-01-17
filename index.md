@@ -246,6 +246,10 @@ The question.
 
 [.attribution[Atomic Design]](http://bradfrost.com/blog/post/atomic-web-design/)
 
+---
+
+<img style="max-height:80vh" src="./files/atomic-design-title.png" />
+
 ???
 
 - Good strategy
@@ -279,6 +283,20 @@ class: lesson impact
 - Q: Boundaries?
 - Eg: Button with an Icon + text
 - Theming?
+
+---
+
+class: flex-slide flex-column 
+
+## Removing the Ambiguity
+
+.large[
+- [Structuring Sass: Saying Goodbye to Atomic Design Ambiguity](https://webdesign.tutsplus.com/articles/structuring-sass-saying-goodbye-to-atomic-design-ambiguity--cms-26679)
+
+- [GE’s Predix Design System](https://medium.com/ge-design/ges-predix-design-system-8236d47b0891)
+
+- [Your Frontend Methodology Is All of Them: Atomic Design & Pattern Lab](https://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them-atomic-design-patternlab)
+]
 
 ---
 
