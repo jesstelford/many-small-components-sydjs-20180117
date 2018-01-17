@@ -41,16 +41,19 @@ class: impact
 - Frontend only for 6yrs
 - Domain for 3yrs
 
-Dad joke:
+Dad joke channel:
 
 ---
 
 class: impact
 
-<img class="emoji" style="max-height: 75vh" src="./files/emoji/1f923.svg" />
+<img style="height:45vh" src="./files/wonderwall.png" />
+
+<img class="emoji" style="max-height: 25vh" src="./files/emoji/1f923.svg" />
 
 ???
 
+- Feeling lyrical today:
 - My friend told me to stop singing "Wonderwall" by Oasis
 - 🎜 I said _maybeeeee_...
 
@@ -1261,7 +1264,9 @@ Monkees"
 
 class: impact
 
-<img class="emoji" style="max-height: 75vh" src="./files/emoji/1f923.svg" />
+<img style="height:45vh" src="./files/monkees.png" />
+
+<img class="emoji" style="max-height: 25vh" src="./files/emoji/1f923.svg" />
 
 ---
 
@@ -1832,15 +1837,15 @@ class: lesson impact
 
 ???
 
-- At any given time, the urge to sing "The Lion Sleeps Tonight" is just a whim
-  away
-- 🎜 a-whim-away a-whim-away a-whim-awy a-woo-oooooo-ooOOooo
+Take away this one thing: [joke]
 
 ---
 
 class: impact
 
-<img class="emoji" style="max-height: 75vh" src="./files/emoji/1f923.svg" />
+<img style="height:65vh" src="./files/lion.png" />
+
+<img class="emoji" style="max-height: 10vh" src="./files/emoji/1f923.svg" />
 
 ???
 
