@@ -37,9 +37,9 @@ class: impact
 ???
 
 - My creds
-- Full stack
-- Frontend only for 6yrs
-- Domain for 3yrs
+- Background of startups
+- Worked in SF
+- Domain FE for 3yrs
 
 Dad joke channel:
 
@@ -163,6 +163,8 @@ class: lesson impact
 - Evolution over 6mo? 2yr? 5yr?
 - Can it grow?
 - Ours couldn't.
+
+Problem:
 - Copy+Paste doesn't scale
   - Bug in gallery? Fix multiple times
   - Tech debt is exponential
@@ -173,6 +175,7 @@ class: lesson impact
 
 ???
 
+Situation:
 - Domain growing
 - HPG / CRE
 - Price Finder end 2013
@@ -188,10 +191,11 @@ class: lesson impact
 
 ???
 
+The question.
 - _Pause_
 - Design + UX thinking same
 - Lots of research
-- Not many folks talking
+- Not many folks talking publicly
 
 ---
 
@@ -217,7 +221,6 @@ class: lesson impact
 
 - Atoms, Molecules, Organisms, Templates, Pages
 - Blocks that can be put together
-- Defined our FE strategy
 
 ---
 
@@ -246,6 +249,10 @@ class: lesson impact
 ???
 
 - Good strategy
+- Others:
+  - Material Design
+  - GE's Predix
+  - Style Tiles styletil.es/
 
 ---
 
@@ -257,8 +264,9 @@ class: lesson impact
 
 ???
 
-- Design, UX, backend
+- Taxonomy / patterns / process
 - buy-in makes it easier
+  - Design, UX, backend
 - _Pause_
 
 ---
@@ -668,7 +676,7 @@ $ npm run build
 ???
 
 - `fe-build`
-  - Over 200 private packages!
+  - Over 386 private packages!
 
 ---
 
@@ -1790,8 +1798,8 @@ foo.png -> foo_aa34f8.png
 
 ## Live _now_
 
-### 10,000 rpm
-### 5ms
+### 9,650 rpm
+### 8ms
 
 ???
 
