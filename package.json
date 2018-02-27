@@ -11,10 +11,12 @@
     "start": "bs serve",
     "build": "bs export --output build/ && cp -r files build/",
     "build:pdf": "bs pdf --output build/ && cp -r files build/",
+    "build:jpg": "node export.js",
     "clean": "rm -rf build/",
     "deploy": "yarn run clean && yarn run build && now --static deploy build && echo 'Now run: now alias <id> msc-sydjs.now.sh'"
   },
   "devDependencies": {
+    "puppeteer": "^1.1.1",
     "backslide": "^2.3.0"
   }
 }
